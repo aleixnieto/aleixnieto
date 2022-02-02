@@ -1,4 +1,5 @@
-### Hi there, I'm Aleix!
+## Hi there 👋 I'm Aleix 😀
+![](https://visitor-badge.laobi.icu/badge?page_id=aleixnieto.aleixnieto) [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 A fourth-year student in Mathematics (with specialization in Statistics) at the University of Barcelona. Interested in a future dedicated to research in the field of bioscience
 
