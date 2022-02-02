@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with someone who is interested in data science
 - 💬 Ask me about anything
-- ⚡ Fun fact: I am big Barça supporter and I love Formula1
+- ⚡ Fun fact: I am a big Barça supporter and I love Formula1
 
 ## :email: Find me on:
 
