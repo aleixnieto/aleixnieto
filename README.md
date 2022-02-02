@@ -1,15 +1,26 @@
 ## Hi there 👋 I'm Aleix 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=aleixnieto.aleixnieto) [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
-A fourth-year student in Mathematics (with specialization in Statistics) at the University of Barcelona. Interested in a future dedicated to research in the field of bioscience
+## 🎓 I'm a fourth-year student in Mathematics student at the University of Barcelona
 
 - 🔭 I’m currently working on explainability of machine learning models applied to prediction of diabetes
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with someone who is interested in data science
-- 💬 Ask me about anything related to sports or my inspiration for my projects
-- 📫 How to reach me: @aleixnieto
-- ⚡ Fun fact: I do not like pumpkin at all
+- 💬 Ask me about anything
+- ⚡ Fun fact: I am big Barça supporter and I love Formula1
 
+## :email: Find me on:
+
+<!--
+[<img align="left" alt="aleixnieto | LinkedIn" width="40px" src="https://www.linkedin.com/in/aleixnieto/" />][linkedin]
+[<img align="left" alt="aleixnieto | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/aleixnieto" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:aleixnieto@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ 
+</p>
 
 <br />
 
