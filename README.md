@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aleix 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=aleixnieto.aleixnieto) [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 ## 🎓 I'm a fourth-year student in Mathematics student at the University of Barcelona
 
