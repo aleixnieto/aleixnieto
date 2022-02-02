@@ -26,7 +26,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
