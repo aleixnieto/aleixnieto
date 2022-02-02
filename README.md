@@ -3,7 +3,7 @@
 
 ## 🎓 I'm a fourth-year Mathematics student at the University of Barcelona
 
-- 🔭 I’m currently working on explainability of machine learning models applied to prediction of diabetes
+- 🔭 I’m currently working on explainability of machine learning models applied to the prediction of diabetes
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with someone who is interested in data science
 - 💬 Ask me about anything
