@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aleix 😀
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
-## 🎓 I'm a fourth-year student in Mathematics student at the University of Barcelona
+## 🎓 I'm a fourth-year Mathematics student at the University of Barcelona
 
 - 🔭 I’m currently working on explainability of machine learning models applied to prediction of diabetes
 - 🌱 I’m currently learning Python
