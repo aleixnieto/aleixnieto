@@ -2,12 +2,12 @@
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 ## 🎓 Graduated in mathematics at the University of Barcelona 
-## 🎓 Currently studying a master's degree in Data Science at Uppsala University 🇸🇪
+## 📝 Currently studying a master's degree in Data Science at Uppsala University
 
 
-- 🔭 I’m currently working on explainability of machine learning models applied to the prediction of diabetes
+- 🔭 Did my final degree project on explainability of machine learning models applied to the prediction of diabetes
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with someone who is interested in data science
+- 👯 I’m looking to collaborate with someone who is interested in Data Science
 - 💬 Ask me about anything
 - ⚡ Fun fact: I'm a big Barça supporter and I love Formula1. I also love hiking.
 
