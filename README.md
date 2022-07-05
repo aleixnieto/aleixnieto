@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 ## 🎓 Graduated in mathematics at the University of Barcelona 
-## 🎓 Currently studying a master's degree in Data Science at Uppsala University 🇸🇪 ![image](https://user-images.githubusercontent.com/91142850/177311746-cb3d51ec-8ac6-4d01-840d-a01539000b12.png)
+## 🎓 Currently studying a master's degree in Data Science at Uppsala University 🇸🇪
 
 
 - 🔭 I’m currently working on explainability of machine learning models applied to the prediction of diabetes
