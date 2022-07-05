@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Aleix 😀
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
-## 🎓 Graduated in mathematics at the University of Barcelona ![emojisky com-839849](https://user-images.githubusercontent.com/91142850/177311365-9d7559a5-0ee5-49d3-9d8c-57c42f8fa197.png)
-## 🎓 Currently studying a master's degree in Data Science at Uppsala University 🇸🇪
+## 🎓 Graduated in mathematics at the University of Barcelona 
+## 🎓 Currently studying a master's degree in Data Science at Uppsala University 🇸🇪 ![image](https://user-images.githubusercontent.com/91142850/177311746-cb3d51ec-8ac6-4d01-840d-a01539000b12.png)
+
 
 - 🔭 I’m currently working on explainability of machine learning models applied to the prediction of diabetes
 - 🌱 I’m currently learning Python
