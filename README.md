@@ -6,7 +6,6 @@
 
 
 - 🔭 I did my final degree project on the explainability of machine learning models applied to the prediction of diabetes. You can find the project in the TFG repository.
-- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with someone who is interested in Data Science.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I'm a big Barça supporter and I love Formula1. I also love hiking.
