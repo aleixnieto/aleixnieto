@@ -19,16 +19,7 @@
 
 <br />
 
-## 🧰 Languages and Tools:
-<p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
- 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+
  
 ## :trophy: My Github Stats:
 
