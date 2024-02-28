@@ -4,12 +4,6 @@
 ## 🎓 I graduated in mathematics from the University of Barcelona (2018-2022)
 ## 📝 Currently studying a master's degree in Data Science at Uppsala University (2022-2024)
 
-
-- 🔭 I did my final degree project on the explainability of machine learning models applied to the prediction of diabetes. You can find the project in the TFG repository.
-- 👯 I’m looking to collaborate with someone who is interested in Data Science.
-- 💬 Ask me about anything.
-- ⚡ Fun fact: I'm a big Barça supporter and I love Formula1. I also love hiking.
-
 ## :email: Find me on:
 
 <!--
