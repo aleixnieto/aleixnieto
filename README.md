@@ -5,7 +5,7 @@
 
 ## 🎓 I graduated in mathematics from the University of Barcelona (2018-2022)
 
-- ⚡ **Programming Languages and Tools I like most**:
+⚡ **Programming Languages and Tools I like most**:
 <p align="left"> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px" height="30px"/></a>
@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-<img width="49%" height="130px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
-<img width="49%" height="130px" src="https://github-readme-streak-stats.herokuapp.com?user=aleixnieto&theme=react&hide_border=true&layout=compact" />
+<img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
+<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=aleixnieto&theme=react&hide_border=true&layout=compact" />
 </p>
 
 ## :email: Find me on:
