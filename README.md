@@ -19,10 +19,8 @@
 </a> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
 <img width="49%" height="192px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
 <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=aleixnieto&theme=react&hide_border=true&layout=compact" />
-</p>
 
 ## :email: Find me on:
 
