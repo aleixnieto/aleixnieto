@@ -25,20 +25,6 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aleixnieto&theme=react&hide_border=true&layout=compact" />
 </p>
 
-<p align="center">
-<img width="35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aleixnieto&theme=react&hide_border=true" />
-  
-<img width="49%" src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" />
-</p>
-
-
-<p align="center"><img src="https://profile-counter.glitch.me/{aleixnieto}/count.svg" /> </p>
- 
-
-
- 
-
-
 [website]: https://aleixnieto.github.io/
 [linkedin]: https://linkedin.com/in/aleixnieto
 [mail]: mailto:aleixnieto@gmail.com
