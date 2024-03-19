@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Aleix 😀
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
-## 📝 Currently studying a master's degree in Data Science at Uppsala University (2022-2024)
+- Currently studying a master's degree in Data Science at Uppsala University 📝 (2022-2024)
 
-## 🎓 I graduated in mathematics from the University of Barcelona (2018-2022)
-
+- I graduated in mathematics from the University of Barcelona 🎓 (2018-2022)
+--------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
 <p align="left"> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px"/></a>
