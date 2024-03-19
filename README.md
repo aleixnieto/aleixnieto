@@ -34,9 +34,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{aleixnieto}/count.svg" /> </p>
  
-<!---
-<p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleixnieto%2Faleixnieto&count_bg=%23F88C0E&title_bg=%2337086F&icon=bitcoin.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false" /> </p>
--->
 
 
  
