@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<img width="49%" height="190px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
+<img width="49%" height="194px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
 <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=aleixnieto&theme=react&hide_border=true&layout=compact" />
 </p>
 
