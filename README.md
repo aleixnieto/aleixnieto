@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aleix 😀
-[![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto)
+[![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)
 
 - Currently studying a master's degree in Data Science at Uppsala University 📝 (2022-2024)
 
