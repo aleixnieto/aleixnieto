@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aleix 😀
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)
 
-- Currently preparing for a PhD in Machine Learning
+- Currently preparing for a career in Machine Learning
 --------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
 <p align="left"> 
