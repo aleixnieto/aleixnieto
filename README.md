@@ -18,6 +18,8 @@
 </p>
 </p>
 
+<img width="50%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
+
 ## :email: Find me on:
 
 <!--
