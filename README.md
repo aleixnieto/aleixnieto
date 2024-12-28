@@ -5,26 +5,27 @@
 - 📌 Location: Uppsala
 --------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px" height="30px" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px" style="margin: 0; padding: 0;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px" height="30px" style="margin: 0; padding: 0;" />
   <a href="https://github.com/aleixnieto" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30px" height="30px" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30px" height="30px" style="margin: 0; padding: 0;" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40px" height="40px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40px" height="40px" style="margin: 0; padding: 0;" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px" height="40px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px" height="40px" style="margin: 0; padding: 0;" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30px" height="30px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="30px" height="30px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30px" height="30px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30px" height="30px" style="margin: 0; padding: 0;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30px" height="30px" style="margin: 0; padding: 0;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="30px" height="30px" style="margin: 0; padding: 0;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30px" height="30px" style="margin: 0; padding: 0;" />
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40px" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40px" height="40px" style="margin: 0; padding: 0;" />
   </a>
 </p>
+
 
 
 <!--  <img width="50%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" /> -->
