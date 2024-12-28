@@ -26,13 +26,11 @@
 ## :email: Find me on:
 
 
-[<img align="left" alt="aleixnieto | LinkedIn" width="40px" src="https://www.linkedin.com/in/aleixnieto/" />][linkedin]
-[<img align="left" alt="aleixnieto | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-
-
-
 <p align="center">
- <a href="https://www.linkedin.com/in/aleixnieto" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/aleixnieto" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+</a>
+
  <a href="mailto:aleixnieto@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 
 [website]: https://aleixnieto.github.io/
