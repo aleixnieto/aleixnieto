@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Aleix 😀
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)
 
-- Currently preparing for a career in Machine Learning
+- 🔭 I'm currently working as a Machine Learning research assistant at Uppsala University
+  
 --------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
 <p align="left"> 
@@ -18,7 +19,7 @@
 </p>
 </p>
 
-<img width="50%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
+# <img width="50%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleixnieto&&show_icons=true&theme=react&hide_border=true" alt="aleixnieto" />
 
 ## :email: Find me on:
 
@@ -34,3 +35,5 @@
 [website]: https://aleixnieto.github.io/
 [linkedin]: https://linkedin.com/in/aleixnieto
 [mail]: mailto:aleixnieto@gmail.com
+
+![image](https://giffiles.alphacoders.com/214/214915.gif)
