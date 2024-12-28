@@ -2,10 +2,10 @@
 [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)
 
 - 🔭 I'm currently working as a Machine Learning research assistant at Uppsala University
-  
+- 📌 Location: Uppsala
 --------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
-<p align="left"> 
+<p align="center"> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30px" height="30px"/></a>
@@ -25,10 +25,10 @@
 
 ## :email: Find me on:
 
-<!--
+
 [<img align="left" alt="aleixnieto | LinkedIn" width="40px" src="https://www.linkedin.com/in/aleixnieto/" />][linkedin]
 [<img align="left" alt="aleixnieto | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+
 
 
 <p align="center">
@@ -39,4 +39,4 @@
 [linkedin]: https://linkedin.com/in/aleixnieto
 [mail]: mailto:aleixnieto@gmail.com
 
-![image](https://giffiles.alphacoders.com/214/214915.gif)
+<!--  ![image](https://giffiles.alphacoders.com/214/214915.gif)
