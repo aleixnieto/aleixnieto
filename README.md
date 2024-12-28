@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aleix 😀
-[![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)
+<!-- [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)-->
 
 - 🔭 I'm currently working as a Machine Learning research assistant at Uppsala University
 - 📌 Location: Uppsala
@@ -8,7 +8,8 @@
 <p align="center"> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px" height="30px"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30px" height="30px"/></a>
+<a href="https://github.com/aleixnieto" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30px" height="30px">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30px" height="30px"/></a>
@@ -29,9 +30,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/aleixnieto" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
-</a>
-
- <a href="mailto:aleixnieto@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+<a href="mailto:aleixnieto@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
 
 [website]: https://aleixnieto.github.io/
 [linkedin]: https://linkedin.com/in/aleixnieto
