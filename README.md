@@ -2,7 +2,7 @@
 <!-- [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)-->
 
 - 🔭 I'm currently working as a Machine Learning research engineer at KTH.
-- 📌 Location: Uppsala
+- 📌 Location: Stockholm
 --------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
 <p align="center"> 
