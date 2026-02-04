@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Aleix 😀
 <!-- [![Github](https://img.shields.io/github/followers/aleixnieto?label=Followers&logo=Github)](https://github.com/aleixnieto?tab=followers)-->
 
-- 🔭 I'm currently working as a Machine Learning research engineer at KTH.
-- 📌 Location: Stockholm
+- 🔭 I'm currently a PhD student in Machine Learning at Uppsala University.
+- 📌 Location: Uppsala
 --------------------------------------------------------------------
 ⚡ **Programming Languages and Tools I like most**:
 <p align="center"> 
