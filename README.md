@@ -42,6 +42,10 @@
 
 ---
 
+![Cool GIF](https://giffiles.alphacoders.com/209/209343.gif)
+
+---
+
 ## 📧 Find me on
 
 <p align="center">
